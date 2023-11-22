@@ -17,10 +17,10 @@
 - service nginx start
 - service nginx stop
 - nginx Commands
-  - h
-  - v -V :
-    -t -T : Checks syntax & tests the configuration file
-    -s : Used to send a signal
+  - -h
+  - -v -V :
+  - -t -T : Checks syntax & tests the configuration file
+  - -s : Used to send a signal
 
 ### Building an image for deployment
 
